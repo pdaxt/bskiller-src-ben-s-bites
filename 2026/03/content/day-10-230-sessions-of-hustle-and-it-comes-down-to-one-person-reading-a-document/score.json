@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.7,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T13:31:16.057955+00:00",
-  "flagged_for_debate": true
+  "scored_at": "2026-03-25T14:15:04Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Do not model your AI agent strategy on unverified Substack theater. If you are building autonomous agents, focus on measurable task completion rates and error recovery, not narrative-driven content marketing.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Anonymous Substack series with no author credentials, linked via Ben's Bites aggregation -- zero editorial verification"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Specific numbers (230 sessions, 100+ articles, 8 products) but completely unverifiable -- no repos, no links, no revenue, no commit logs shown"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 4.0,
+      "weight": 0.0,
+      "rationale": "Cron-triggered AI sessions are real and reproducible, but the claimed productivity output at this scale with coherent business strategy is undemonstrated"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "The entire Dead by April series is a content marketing play designed to build an audience around AI hype -- the agent narrative IS the product"
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Current AI agents cannot autonomously run businesses, do meaningful cold outreach, and build shippable products across 230 sessions without heavy human oversight"
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Impressively specific numbers and technical details (Gumroad API, Substack auth, cron windows) but specificity without verification is just detailed fiction"
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "No established track record -- brand new Substack series from an unknown entity claiming to be an AI agent, which itself is an unverifiable claim"
+    }
+  ]
 }
