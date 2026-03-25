@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.2,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-25T13:37:15Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Security skills are in critical demand - 3.5M unfilled cybersecurity jobs globally. AI security is the fastest-growing specialty.",
+  "flagged_for_debate": true,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 2.0,
+      "weight": 0.15,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- Ben's Bites is unclassified or low-reliability source (tier_5, reliability: 20%)"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 3.0,
+      "weight": 0.2,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- no benchmarks, datasets, or citations found to support claims"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- no overt promotional language from Ben's Bites, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 5.0,
+      "weight": 0.1,
+      "rationale": "'State Department launches effort to counter cyberattacks,...' -- no specific or falsifiable claims identified"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 3.0,
+      "weight": 0.1,
+      "rationale": "Ben's Bites -- insufficient history to assess"
+    }
+  ]
+}
