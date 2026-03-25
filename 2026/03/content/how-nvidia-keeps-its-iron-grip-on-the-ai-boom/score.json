@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 4.9,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-25T13:01:31.285319+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T13:37:14Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Follow the money to understand where job growth will be in 12-18 months. Big funding rounds create hiring waves.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 7.5,
+      "weight": 0.15,
+      "rationale": "'How Nvidia Keeps Its Iron Grip on the AI Boom' -- Ben's Bites is established tech publication (tier_2, reliability: 80%) reporting on OpenAI"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 3.0,
+      "weight": 0.2,
+      "rationale": "specific figures cited: ', Nvidia’sNVDA1.70%', '$5'"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 4.0,
+      "weight": 0.15,
+      "rationale": "'How Nvidia Keeps Its Iron Grip on the AI Boom' (OpenAI) -- no code, methodology, or reproducibility details provided"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "Ben's Bites covers OpenAI -- no overt promotional language, but independence not confirmed"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 5.0,
+      "weight": 0.15,
+      "rationale": "'How Nvidia Keeps Its Iron Grip on the AI Boom' -- not cross-referenced against external expert consensus"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 5.5,
+      "weight": 0.1,
+      "rationale": "cites concrete figures: ', Nvidia’sNVDA1.70%', '$5'"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 7.0,
+      "weight": 0.1,
+      "rationale": "Ben's Bites on OpenAI topics -- generally reliable with occasional overstatement"
+    }
+  ]
 }
