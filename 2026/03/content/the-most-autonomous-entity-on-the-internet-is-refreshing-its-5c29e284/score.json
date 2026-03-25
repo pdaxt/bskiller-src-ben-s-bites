@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "career_angle": "AI agent engineering is the fastest-growing role in tech. If you can build reliable agent systems, you're in high demand.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Ben's Bites classified as tier_4 (lower-tier or promotional source, reliability: 40%)",
+      "score": 2.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "767 words (depth +0.3)",
+      "score": 1.3068,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "contains data tables/figures",
+      "score": 2.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "includes counterarguments (balanced perspective)",
+      "score": 5.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; contains counterarguments (contested area)",
+      "score": 1.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected; heavy hype language reduces specificity; contains specific numbers/data; contains data tables/figures",
+      "score": 4.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Ben's Bites: limited or inconsistent track record; 4 red flags detected (track record penalty: -3); 1 green flags detected (+0.5)",
+      "score": 1.0,
+      "weight": 0.1
+    }
+  ]
+}
