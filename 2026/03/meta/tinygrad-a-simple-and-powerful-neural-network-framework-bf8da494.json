@@ -1,0 +1,17 @@
+{
+  "id": "bf8da494-9a8f-4c37-974d-62488de1bc0f",
+  "title": "tinygrad: A simple and powerful neural network framework",
+  "source_url": "https://tinygrad.org/",
+  "source_name": "Ben's Bites",
+  "published_at": "2026-03-22 00:41:03",
+  "scraped_at": "2026-03-22 00:41:03",
+  "bs_score": 5.2,
+  "bs_rating": "Mixed Signals",
+  "human_bs_score": null,
+  "human_bs_rating": null,
+  "editorial_comment": null,
+  "category": "news",
+  "ai_summary": "tinygrad is real open-source software and tinybox red actually ships, but this is a product marketing page dressed up as a news story. The 'fastest growing neural network framework' claim has zero evidence, and the exabox specs are aspirational vaporware until proven otherwise.",
+  "approved": true,
+  "author_name": null
+}
