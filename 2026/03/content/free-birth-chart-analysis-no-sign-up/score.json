@@ -1,0 +1,60 @@
+{
+  "bs_rating": "High BS",
+  "bs_score": 6.2,
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- Ben's Bites is unclassified or low-reliability source (tier_5, reliability: 20%)",
+      "score": 2.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- no benchmarks, datasets, or citations found to support claims",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- no code, methodology, or reproducibility details provided",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- no overt promotional language from Ben's Bites, but independence not confirmed",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- not cross-referenced against external expert consensus",
+      "score": 5.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "'Free Birth Chart Analysis No Sign Up' -- no specific or falsifiable claims identified",
+      "score": 5.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Ben's Bites -- insufficient history to assess",
+      "score": 3.0,
+      "weight": 0.1
+    }
+  ],
+  "flagged_for_debate": true,
+  "framework_version": "bsaf-v1.0",
+  "scored_at": "2026-03-25T10:45:54.249148+00:00",
+  "scoring_method": "heuristic"
+}
