@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 5.9,
   "bs_rating": "Mixed Evidence",
-  "scored_at": "2026-03-25T13:24:10.210005+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:13:25Z",
+  "scoring_method": "heuristic",
+  "career_angle": "Don't pivot your career toward Terafab roles yet. If you want semiconductor experience, apply to TSMC, Intel, or Samsung where chips actually get made. Watch for actual equipment orders and ASML partnerships before taking this seriously.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Unknown",
+      "score": 6.0,
+      "weight": 0.0,
+      "rationale": "Bloomberg is credible but reporting Musk's own claims uncritically. Source is the subject himself, not independent verification."
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Zero evidence presented -- no site plans, no equipment orders, no hiring announcements, no partnerships with ASML or other lithography vendors. Just a statement of intent."
+    },
+    {
+      "id": "reproducibility",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "No independent verification possible. No filings, no permits, no capital allocation disclosed. Entirely based on Musk's verbal claim."
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Unknown",
+      "score": 9.0,
+      "weight": 0.0,
+      "rationale": "Musk is CEO of Tesla and SpaceX, controls xAI. Announcement benefits stock price and narrative control. Joint venture structure across his own companies raises governance red flags."
+    },
+    {
+      "id": "consensus",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Semiconductor industry experts widely skeptical. Building a leading-edge fab from scratch takes $20B+ and 5+ years even for experienced players like Intel. No analyst endorsements cited."
+    },
+    {
+      "id": "specificity",
+      "name": "Unknown",
+      "score": 3.0,
+      "weight": 0.0,
+      "rationale": "Vague 'advanced technology fab' with 'all equipment necessary to make chips of any kind' is hand-waving. No process node, no capacity targets, no timeline, no capex figure."
+    },
+    {
+      "id": "track_record",
+      "name": "Unknown",
+      "score": 2.0,
+      "weight": 0.0,
+      "rationale": "Musk's track record on manufacturing timelines is abysmal. Cybertruck delayed 3+ years, Full Self-Driving promised since 2016, Optimus robot demos staged. The article itself notes his 'history of over-promising.'"
+    }
+  ]
 }
