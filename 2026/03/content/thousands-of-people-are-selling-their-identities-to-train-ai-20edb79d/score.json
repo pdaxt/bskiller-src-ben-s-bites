@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 2.6,
+  "bs_rating": "Verified",
+  "career_angle": "If you're building AI products, these micro-data marketplaces (Kled AI, Silencio, Neon Mobile) are where training data is heading -- learn their APIs and data formats now. For ML engineers, understanding provenance and consent chains in crowdsourced training data is becoming a compliance-critical skill.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 8.0,
+      "rationale": "The Guardian is a Tier 1 publication with editorial standards; Ben's Bites is a respected AI aggregator"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 7.0,
+      "rationale": "Named sources (Jacobus Louw, Sahil Tigga, Ramelio Hill) with specific ages, locations, dollar amounts, and platform names -- all independently verifiable"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 8.0,
+      "rationale": "Kled AI, Silencio, and Neon Mobile are live platforms anyone can download and verify payment claims against"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 6.0,
+      "rationale": "Guardian has no financial stake but the 'at what cost?' framing serves their editorial bias toward tech-skepticism narratives that drive engagement"
+    },
+    {
+      "dimension": "consensus",
+      "score": 7.0,
+      "rationale": "Data labeling gig economy is well-documented by MIT Tech Review, Rest of World, and academic labor researchers -- nothing novel claimed here"
+    },
+    {
+      "dimension": "specificity",
+      "score": 9.0,
+      "rationale": "$14 per video, $50 in two weeks, $100/month, $0.50/minute -- precise verifiable figures with named platforms and tasks"
+    },
+    {
+      "dimension": "track_record",
+      "score": 8.0,
+      "rationale": "Guardian tech desk has strong investigative history; no pattern of fabrication or sensationalism beyond headline choices"
+    }
+  ]
+}
