@@ -1,13 +1,6 @@
 {
-  "version": "1.0",
-  "source_name": "Ben S Bites",
+  "source_name": "Ben's Bites",
   "repo": "bskiller-src-ben-s-bites",
-  "story_count": 12,
-  "last_updated": "2026-03-25T08:57:20Z",
-  "months": [
-    {
-      "month": "2026-03",
-      "story_count": 12
-    }
-  ]
+  "story_count": 2,
+  "last_updated": "2026-03-25T10:38:52.734592+00:00"
 }
