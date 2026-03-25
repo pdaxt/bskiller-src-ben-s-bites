@@ -1,3 +1,7 @@
 # How Nvidia Keeps Its Iron Grip on the AI Boom
 
-Inside the gilded reception hall across San Francisco’s War Memorial Opera House, some of Silicon Valley’s top executives and investors in late November gathered to toast the man of the hour.Jensen Huang, Nvidia’sNVDA1.70%increase; green up pointing triangle globe-trotting CEO, had just donated $5 million to fund a production of a new opera, “The Monkey King,” based on a classic Chinese heroic novel, and invited a who’s-who of the AI industry to attend a performance. “Champagne and opera,” Huang joked in a speech to more than 100 guests from OpenAI and other companies. “This is what it’s like to be rich!”The confab of Silicon Valley royalty was about more than just opera—it was about paying respect to an industry kingmaker whose company had become so flush with cash that it was bankrolling virtually everyone in the room.Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+Source: [Ben's Bites](https://www.wsj.com/tech/nvidia-ai-market-competition-9db60e4c?st=91tqTV&reflink=desktopwebshare_permalink)
+
+---
+
+The chip giant has invested tens of billions from its fast-growing war chest to become the industry’s most powerful kingmaker.
