@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.2,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Learning tinygrad's codebase is genuinely useful for understanding ML compilers and GPU programming at a low level. Don't bet your career on the ecosystem though -- PyTorch and JAX still own hiring pipelines.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 4.0,
+      "rationale": "Ben's Bites repackaging a company's own marketing page as a story. No independent analysis or verification."
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 5.0,
+      "rationale": "Hardware specs for shipping products are concrete. But 'fastest growing' is unsubstantiated, and exabox specs are projections for unreleased hardware."
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 7.0,
+      "rationale": "tinygrad is open source on GitHub, framework claims are verifiable by reading the code. tinybox red has shipped to real customers."
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 2.0,
+      "rationale": "This IS the company's own sales page. They're selling $15K+ hardware. Every claim serves their commercial interest."
+    },
+    {
+      "dimension": "consensus",
+      "score": 5.0,
+      "rationale": "tinygrad has a real community but remains niche. No serious ML lab has adopted it over PyTorch/JAX. The '3 OpTypes' simplification is elegant but unproven at scale."
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Hardware specs are admirably specific. Software claims ('simple and powerful', 'fastest growing') are pure marketing fog with no metrics."
+    },
+    {
+      "dimension": "track_record",
+      "score": 5.0,
+      "rationale": "George Hotz shipped comma.ai and tinybox red (with delays). But history of ambitious timelines that slip. Exabox is a massive leap from 4-GPU boxes."
+    }
+  ]
+}
