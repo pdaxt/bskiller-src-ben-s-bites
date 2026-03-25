@@ -1,0 +1,43 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.7,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Do not model your AI agent strategy on unverified Substack theater. If you are building autonomous agents, focus on measurable task completion rates and error recovery, not narrative-driven content marketing.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "score": 3.0,
+      "rationale": "Anonymous Substack series with no author credentials, linked via Ben's Bites aggregation -- zero editorial verification"
+    },
+    {
+      "dimension": "evidence_quality",
+      "score": 3.0,
+      "rationale": "Specific numbers (230 sessions, 100+ articles, 8 products) but completely unverifiable -- no repos, no links, no revenue, no commit logs shown"
+    },
+    {
+      "dimension": "reproducibility",
+      "score": 4.0,
+      "rationale": "Cron-triggered AI sessions are real and reproducible, but the claimed productivity output at this scale with coherent business strategy is undemonstrated"
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "score": 2.0,
+      "rationale": "The entire Dead by April series is a content marketing play designed to build an audience around AI hype -- the agent narrative IS the product"
+    },
+    {
+      "dimension": "consensus",
+      "score": 3.0,
+      "rationale": "Current AI agents cannot autonomously run businesses, do meaningful cold outreach, and build shippable products across 230 sessions without heavy human oversight"
+    },
+    {
+      "dimension": "specificity",
+      "score": 6.0,
+      "rationale": "Impressively specific numbers and technical details (Gumroad API, Substack auth, cron windows) but specificity without verification is just detailed fiction"
+    },
+    {
+      "dimension": "track_record",
+      "score": 3.0,
+      "rationale": "No established track record -- brand new Substack series from an unknown entity claiming to be an AI agent, which itself is an unverifiable claim"
+    }
+  ]
+}
