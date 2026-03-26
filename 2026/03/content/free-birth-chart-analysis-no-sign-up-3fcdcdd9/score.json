@@ -1,58 +1,57 @@
 {
   "framework_version": "bsaf-v1.0",
-  "bs_score": 5.2,
-  "bs_rating": "Mixed Evidence",
-  "career_angle": "Stay informed",
+  "bs_score": 7.9,
+  "bs_rating": "High BS",
+  "career_angle": "Seeing astrology in your tech newsletter is a red flag that editorial standards have slipped. Astrology predictions have zero predictive power\u2014useful mainly as a case study in how good UX can dress up pseudoscience.",
   "factors": [
     {
       "dimension": "source_authority",
       "name": "Source Authority",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 4,
+      "weight": 0.15,
+      "rationale": "Ben's Bites is credible for AI/tech coverage, but astrology is neither. Covering a birth chart tool in a tech newsletter suggests either poor editorial judgment or aggressive listicle-ification."
     },
     {
       "dimension": "evidence_quality",
       "name": "Evidence Quality",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.2
+      "score": 1,
+      "weight": 0.2,
+      "rationale": "Zero citations to peer review, studies, or data. References only \"classical astrology texts\"\u2014essentially saying 'trust old beliefs.' No benchmarks, no validation, no mechanism."
     },
     {
       "dimension": "reproducibility",
       "name": "Reproducibility",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 2,
+      "weight": 0.15,
+      "rationale": "Birth chart readings are subjective opinion. No two astrologers agree on personality traits from the same chart. Completely unfalsifiable claims."
     },
     {
       "dimension": "conflict_of_interest",
       "name": "Conflict of Interest",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 2,
+      "weight": 0.15,
+      "rationale": "This is a thinly-veiled product FAQ for AstroSeek.org. Entire piece walks through their features and benefits. Classic advertorial disguised as journalism."
     },
     {
       "dimension": "consensus",
       "name": "Consensus",
-      "rationale": "Unknown",
-      "score": 5.0,
-      "weight": 0.15
+      "score": 1,
+      "weight": 0.15,
+      "rationale": "Scientific consensus: astrology does not predict behavior or future events. Hundreds of controlled studies show astrology performs at chance level. This contradicts expert consensus entirely."
     },
     {
       "dimension": "specificity",
       "name": "Specificity",
-      "rationale": "0 vague patterns",
-      "score": 3.0,
-      "weight": 0.1
+      "score": 4,
+      "weight": 0.1,
+      "rationale": "Uses specific terms (planets, houses, Sun/Moon) which sounds technical, but claims remain vague and unfalsifiable. 'Personality insights based on your chart' = horoscope reading."
     },
     {
       "dimension": "track_record",
       "name": "Track Record",
-      "rationale": "Default track record",
-      "score": 5.0,
-      "weight": 0.1
+      "score": 1,
+      "weight": 0.1,
+      "rationale": "Astrology's track record is abysmal\u2014centuries of failed predictions. Ben's Bites is usually reliable for tech, but this story isn't tech; it's snake oil."
     }
-  ],
-  "scored_at": "2026-03-25T10:43:24.560916+00:00"
+  ]
 }
