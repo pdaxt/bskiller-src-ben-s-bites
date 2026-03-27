@@ -1,0 +1,44 @@
+{
+  "bs_rating": "Mixed Evidence",
+  "bs_score": 4.5,
+  "career_angle": "Post-training data work (RLHF, evals, tool-use training) is genuinely booming -- if you have domain expertise in coding, APIs, or ML evaluation, companies like Deccan, Scale AI, and Surge are hiring aggressively. Don't join for the equity story; join for the skills in AI evaluation pipelines that transfer everywhere.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "rationale": "TechCrunch is tier-1 tech press; Ben's Bites is a credible aggregator. Source is solid.",
+      "score": 8.0
+    },
+    {
+      "dimension": "evidence_quality",
+      "rationale": "Specific investors and round size are verifiable, but zero revenue figures, workforce numbers, or customer engagement metrics. All claims are company-sourced.",
+      "score": 5.0
+    },
+    {
+      "dimension": "reproducibility",
+      "rationale": "Funding round verifiable via Crunchbase/PitchBook. Customer relationships with DeepMind and Snowflake are name-drops with no scope or contract details.",
+      "score": 6.0
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "rationale": "Classic fundraise announcement piece. Company has every incentive to overstate traction. No independent analyst or customer quotes to counterbalance.",
+      "score": 4.0
+    },
+    {
+      "dimension": "consensus",
+      "rationale": "AI post-training and RLHF outsourcing is a validated, growing market. Scale AI, Surge AI, Labelbox all prove the category. Not a speculative bet.",
+      "score": 7.0
+    },
+    {
+      "dimension": "specificity",
+      "rationale": "Names products (Helix) and use cases (coding, APIs, world models) but everything stays at brochure-level. No benchmarks, no before/after, no customer testimonials.",
+      "score": 5.0
+    },
+    {
+      "dimension": "track_record",
+      "rationale": "Founded October 2024 -- 17 months old. No prior exits, no public track record. Too early to evaluate execution ability beyond raising money.",
+      "score": 3.0
+    }
+  ],
+  "scorer": "bsaf-heuristic",
+  "version": "1.0"
+}
